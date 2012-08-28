@@ -1,0 +1,8 @@
+7ee8385768a2097c41e8c7a077555fa4 *DESCRIPTION
+df4e35872fc4f20d4cddf7ab2e7bbfcc *NAMESPACE
+770b371a89c5c66dcb07d283d3a0e24f *R/box_qp_f.R
+94cbfce45a03d3a0e05f10796b2125cc *R/dpglasso.R
+399fc12f2f4bdf03dc6458e387767327 *man/box_qp_f.Rd
+7ba68dfa473dd0378c11604f26b57413 *man/dpglasso-package.Rd
+739b66f6288e621a2e3763bf9dec54de *man/dpglasso.Rd
+9f316c61610392589f323ad7b27bdac3 *src/box_qp_f.f90
